@@ -20,3 +20,14 @@ exponent = 7 ** 2
 print("exponenet: \t",exponent)
 
 print((2+3) *4)
+
+# CHallenges
+
+print(8*5)
+print(3.14*7 ** 2)
+
+print("$",3 * 12.99 + 4* 3.50)
+
+
+any_integer = 7
+print(any_integer % 2 == 0)
